@@ -1,5 +1,5 @@
-# Matlab-code-samplesIn my Ph.D. in the USA, 
-I made almost all of the MatLab code that's download links are:
+# Matlab-code-samples from Md Mirazul Islam
+
 .
 CHAPTER 1: Solving System of Equations 
 1. Gaussian elimination:https://www.youtube.com/watch?v=k-Z3u36VFmU
